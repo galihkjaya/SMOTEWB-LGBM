@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Wine Quality Prediction with SMOTEWB & LightGBM</h1>
+  <h1>Wine Quality Prediction with SWVLGBM</h1>
   <p><i>An advanced machine learning pipeline tackling severe class imbalance for robust quality classification.</i></p>
 
   <!-- Badges -->
